@@ -1,0 +1,7 @@
+com/common/entity/DefaultCatalog.class
+com/common/entity/Keys.class
+com/common/entity/AdamProject.class
+com/common/entity/tables/pojos/NewTable.class
+com/common/entity/Tables.class
+com/common/entity/tables/records/NewTableRecord.class
+com/common/entity/tables/NewTable.class
